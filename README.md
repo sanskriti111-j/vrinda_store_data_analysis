@@ -5,7 +5,7 @@ This project presents a detailed data analysis of Vrinda Store's sales and opera
  Dataset
 
 - **File Name**: `Vrinda Store Data Analysis.xlsx`
-- **Tool Used**: Microsoft Excel
+- **Tool Used**: Microsoft Excel, Power BI
 - **Format**: Tabular data with charts and pivot tables for quick insights
 
 ## Objectives
